@@ -53,7 +53,7 @@ npm install -D release-it
   "name": "my-package",
   "version": "1.0.0",
   "scripts": {
-    "release": "release-it"
+    "release": "konfig-release-it"
   },
   "devDependencies": {
     "release-it": "*"

@@ -1,7 +1,7 @@
 {
   "name": "konfig-release-it",
   "version": "15.5.1",
-  "description": "Generic CLI tool to automate versioning and package publishing related tasks.",
+  "description": "Generic CLI tool to automate versioning and package publishing related tasks. Specifically modified for Yarn v3+ and Konfig.",
   "keywords": [
     "build",
     "changelog",

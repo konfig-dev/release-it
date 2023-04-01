@@ -1,5 +1,5 @@
 {
-  "name": "release-it",
+  "name": "konfig-release-it",
   "version": "15.5.1",
   "private": true,
   "description": "Generic CLI tool to automate versioning and package publishing related tasks.",
